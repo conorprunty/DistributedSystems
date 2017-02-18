@@ -1,0 +1,8 @@
+module AddNaming
+{
+  interface Add
+  { 
+    string addMethod();
+  };
+};
+
